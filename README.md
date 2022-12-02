@@ -1,3 +1,3 @@
-AndroidTrivia - Movies App
+Android- Movies App
 ============================
 
